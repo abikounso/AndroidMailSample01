@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CPSample</string>
+    <string name="button1">画像添付(assets)</string>
+    <string name="button2">Excelファイル添付(assets)-失敗します</string>
+    <string name="button3">Excelファイル添付(SDカード)</string>
+    <string name="button4">Excelファイル添付(SDカード)コンテンツプロバイダ不使用</string>
+    
+</resources>
